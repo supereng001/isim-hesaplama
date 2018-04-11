@@ -1,0 +1,6 @@
+{"status":"ok",
+"minerPath":"\/root\/miner\/claymore\/ethdcrminer64",
+"minerOptions":"-wd 1 -r 1 -epool eu-de01.miningrigrentals.com:3344 -ewal tytanick.28044 -eworker tytanick.28044 -esm 2 -epsw x -allpools 1 -mport -3333",
+"ocCore":"90",
+"ocMemory":"1400",
+"ocPowerlimit":"150","ocTempTarget":"75","ocFanSpeedMin":"30","srrEnabled":null,"srrSerial":null,"srrSlot":null}

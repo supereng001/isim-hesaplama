@@ -1,0 +1,52 @@
+with open("isimler.txt", "r") as ins:
+    for line in ins:
+		if line!="":
+		temp
+		temp=Substr(line, 0, )
+        array.append(line)
+
+print(*array)		
+
+
+Algoritma:
+1-isim listesinin satırını oku
+2-isimdeki harfleri topla
+3-toplam x sayısını veriyorsa ekran yaz.
+
+1-ismi all
+2-her harfe bir rakam veriyorsa
+3-isimdeki her harfin rakamını topla
+4-
+
+["foo", "bar", "baz"].index("bar")
+
+>>> list=['a cat','a dog','a yacht']
+>>> string='a cat'
+>>> if string in list:
+...     print 'found a cat!
+
+array{'0','a','b','y'}
+array[0]="aby";
+array[1]="cdg";
+int no=arrayx(a)
+
+def dondur(sayi):
+    return sayi % 2
+	
+	
+	for i in range(0,2):    #to iterate on the factors of the number
+      if num%i == 0:         #to determine the first factor
+         j=num/i 
+		 
+array[0]'ın içinde harfi arayacağız
+
+
+1	A	H	Ö	Y
+2	B	I	P	Z
+3	C	İ	R	
+4	Ç	J	S	
+5	D	K-Q	Ş	
+6	E	L	T	
+7	F	M	U	
+8	G	N	Ü	
+9	Ğ	O	V-W-X
